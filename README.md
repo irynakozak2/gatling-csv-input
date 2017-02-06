@@ -2,10 +2,14 @@
 - http://gatling.io
 - https://jenkins.io/
 
+###### Requirements
+- A CentOS box
+- Java 8
+- Gatling 2.2.3
+
 ###### Explanation
 
-Using Jenkins to kick of a pipeline job that uses Gatling (load) test multiple url's stored in a CSV.
-
+Using Jenkins or CLI to kick of a pipeline job that uses Gatling (load) to test multiple url's stored in a CSV...
 
 ###### Install Gatling Jenkins (master/slave) nodes
 
