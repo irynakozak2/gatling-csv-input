@@ -9,7 +9,7 @@
 
 ###### Explanation
 
-Using Jenkins or CLI to kick of a pipeline job that uses Gatling (load) to test multiple url's stored in a CSV...
+Using Jenkins to kick of a pipeline job, or using CLI to execute a Gatling (load) simulation on multiple url's stored in a CSV...
 
 ###### Install Gatling Jenkins (master/slave) nodes
 
