@@ -1,10 +1,11 @@
-This example is based on the official documentation from ;
+This example is based on the official documentation from;
 - http://gatling.io
 - https://jenkins.io/
 
-Sequence diagram displaying functionality
+Functionality;
+Using Jenkins to kick of a pipeline job.
 
-![alt text](https://github.com/rajanarkenbout/nginx_couchbase/blob/master/nginx_couchbase_sequence_diagram.jpg "Nginx couchbase sequence diagram")
+
 
 Ensure Gatling is installed on your Jenkins (master/slave) nodes
 
